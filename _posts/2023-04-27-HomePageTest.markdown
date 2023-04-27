@@ -2,7 +2,7 @@
 layout:     post
 title:      "my first blog page"
 subtitle:   ""
-date:       2023-04-27 20:00:00
+date:       2023-04-25 20:00:00
 author:     "jenny"
 header-img: "img/post-bg-universe.jpg"
 tags:
