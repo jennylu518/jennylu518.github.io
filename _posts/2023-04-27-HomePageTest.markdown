@@ -30,3 +30,4 @@ pdf
 ### 总结 ###
 用这种方法来调试nodejs服务器程序还是比较方便的。当然了，chrome除了可以调试服务器代码外，调试web客户端那就更不在话下了。
 
+![research](/img/in-post/tree/tree.jpg)
