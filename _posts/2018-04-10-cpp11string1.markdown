@@ -11,6 +11,20 @@ tags:
 ## 前言 ##
 
 
+
+
+img
+
+![chrome安装插件后的效果图](/img/in-post/chromenodejs/1.png)
+
+
+pdf
+
+[mypdf addr](/pdf/Cyclic_Changes_of_the_Cold_Island_Effect_of_Urban_Green_Space_in_Regions_with_Hot_Summers_and_Cold_Winters.pdf)
+
+
+
+
 C++的switch没有使用字符串作为case选择分支的。所以这里用这个作为字符串的case分支真的很不错。因为这里用到了C++11的constexpr函数文字常量语法，函数会在编译的时候生成字串符的hash值，所以不会出现case重复的情况，如果出现重复程序会编译报错。
 
 ## 正文 ##
