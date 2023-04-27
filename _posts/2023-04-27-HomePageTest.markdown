@@ -24,6 +24,11 @@ pdf
 [mypdf addr](/pdf/Cyclic_Changes_of_the_Cold_Island_Effect_of_Urban_Green_Space_in_Regions_with_Hot_Summers_and_Cold_Winters.pdf)
 
 
+pdf2
+
+[mypdf2 addr](/pdf/Me_SCi.pdf)
+
+
 ### 总结 ###
 用这种方法来调试nodejs服务器程序还是比较方便的。当然了，chrome除了可以调试服务器代码外，调试web客户端那就更不在话下了。
 
