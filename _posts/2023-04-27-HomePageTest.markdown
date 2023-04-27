@@ -24,9 +24,7 @@ pdf
 [mypdf addr](/pdf/Cyclic_Changes_of_the_Cold_Island_Effect_of_Urban_Green_Space_in_Regions_with_Hot_Summers_and_Cold_Winters.pdf)
 
 
-pdf2
-
-[mypdf2 addr](/pdf/Me_SCi.pdf)
+文字一：[The ability of three climbing plant species to capture particulate matter and their physiological responses at different environmental sampling sites](/pdf/Me_SCi.pdf)
 
 
 ### 总结 ###
