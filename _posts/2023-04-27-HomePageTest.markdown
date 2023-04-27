@@ -6,7 +6,7 @@ date:       2023-04-27 20:00:00
 author:     "jenny"
 header-img: "img/post-bg-universe.jpg"
 tags:
-    - test
+    - C++
 ---
 
 ## my first title-1 ##
