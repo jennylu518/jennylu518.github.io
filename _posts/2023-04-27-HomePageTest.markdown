@@ -1,40 +1,29 @@
 ---
 layout:     post
-title:      "使用chrome对nodejs和pomelo断点调试"
+title:      "my first blog page"
 subtitle:   ""
-date:       2018-04-10 12:00:00
-author:     "Mage"
+date:       2023-04-27 20:00:00
+author:     "jenny"
 header-img: "img/post-bg-universe.jpg"
 tags:
-    - nodejs
+    - test
 ---
-###pomelo开始断点调试要作的
-我们使用浏览器来对pomelo进行断点调试，node版本更很快，调试命令也变化的比较快。pomelo又是一个多进程的服务器框架，用webStorm或者VSCode调试发现子服务器进程不能进入断点。
+# my first title-1
+我的第一个文章。。。。
 
-nodejs和pomelo的安装就不多说明，pomelo可以用npm安装
+### title1-1
 
-[使用WebStorm调试pomelo的官方说明](https://github.com/NetEase/pomelo/wiki/使用-WebStorm-IDE-调试-Pomelo-应用程序)
-
-在上边的pomelo的官方说明里是在服务器的配置文件server.json的参数里加一个 "args": " --debug=32312 "启动参数。这是以debug方式进行调断的方式，如果要使用浏览器进行断点调试，只要把这个参数改为"args": "--inspect=9229" 。这样就可以使用Chrome等浏览器进行断点调试了。在使用Chrome进行断点调试前要先在Chrome上安装一下js的调试插件。
-
-###在Chrome上安装js断点调试插件
-先看Nodejs的官方说明
-
-[nodejs调试方法的官方说明](https://nodejs.org/en/docs/inspector/)
-
-最新版的node好像不用安装inspect就可以使用这种方式调试，直接看Chrome的配置方法，在Chrome中输入下边内容并回车，浏览器会让安装一个插件，这就是调试插件，安装它。
-```bash
-chrome://inspect
-```
-安装上之后,在浏览器里输入上边的内容后会显示，如下图：
+img
 
 ![chrome安装插件后的效果图](/img/in-post/chromenodejs/1.png)
 
-同时在浏览器的右上角也会有一个快速设置监听地址和端口的按钮：
+
+pdf
+
+[mypdf addr](https://github.com/NetEase/pomelo/wiki/pomelo的HelloWorld)
 
 ![快捷按钮](/img/in-post/chromenodejs/2.png)
-
-也可以选择上边的Discover network targets后边的Configure来进行设置：
+ork targets后边的Configure来进行设置：
 
 ![使用Discover network targets设置](/img/in-post/chromenodejs/3.png)
 
